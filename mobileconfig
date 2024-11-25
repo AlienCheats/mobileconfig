@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadIdentifier</key>
+            <string>com.aliencheats.webclip</string>
+            <key>PayloadUUID</key>
+            <string>12345678-1234-1234-1234-123456789012</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Label</key>
+            <string>AlienCheats</string>
+            <key>URL</key>
+            <string>https://beacons.ai/aliencheats</string>
+            <key>IsRemovable</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadIdentifier</key>
+    <string>com.aliencheats.configuration</string>
+    <key>PayloadUUID</key>
+    <string>abcdef12-1234-5678-90ab-cdef12345678</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
